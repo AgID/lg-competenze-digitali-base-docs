@@ -30,6 +30,6 @@ digitali di base.
    doc/prefazione
    doc/info-sulla-traduzione
    doc/riconoscimenti
-   doc/sezione1
-   doc/sezione2
-   doc/sezione3
+   doc/sezione1-introduzione
+   doc/sezione2-livelli-di-padronanza
+   doc/sezione3-competenze
