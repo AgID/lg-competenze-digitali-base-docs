@@ -26,10 +26,10 @@ digitali di base.
    :numbered:
    :hidden:
    
-   modello-europeo-DigComp_2_1
-   prefazione
-   info-sulla-traduzione
-   riconoscimenti
-   sezione1
-   sezione2
-   sezione3
+   doc/modello-europeo-DigComp_2_1
+   doc/prefazione
+   doc/info-sulla-traduzione
+   doc/riconoscimenti
+   doc/sezione1
+   doc/sezione2
+   doc/sezione3
