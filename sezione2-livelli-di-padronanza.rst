@@ -113,7 +113,7 @@ presentati come segue:
    ciascun livello di padronanza. In questa versione 2.1, gli esempi per
    gli 8 livelli sono disponibili solo nella prima competenza (1.1), per
    le restanti viene fornito un solo esempio per livello e area di
-   utilizzo [2]_.
+   utilizzo [1]_.
 
 Allo scopo di fornire esempi per lo stesso numero di livelli di
 padronanza e per avere lo stesso numero di esempi tra i livelli, abbiamo
@@ -557,7 +557,7 @@ Posso sviluppare una nuova app o piattaforma per sfogliare, cercare e
 filtrare la bibliografia su argomenti accademici da utilizzare in
 classe.
 
-.. [2]
+.. [1]
    Il quadro di riferimento, così come gli esempi, hanno puramente
    natura descrittiva pertanto non vengono forniti esempi per tutti i
    livelli di padronanza.
