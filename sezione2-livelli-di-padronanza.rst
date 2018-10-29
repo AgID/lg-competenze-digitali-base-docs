@@ -125,8 +125,7 @@ l’esempio nel livello successivo, ecc. Ad esempio, le competenze 1.1 e
 
 Nella versione PDF sono state utilizzate le strisce a fumetti allo scopo
 di mostrare un esempio di utilizzo per uno scenario di occupazione e un
-esempio di utilizzo per uno scenario di apprendimento per la competenza
-1.1.
+esempio di utilizzo per uno scenario di apprendimento per la competenza 1.1.
 
 La striscia a fumetti presente nella versione PDF consente al lettore di
 comprendere in modo facile e concreto i progressi compiuti
