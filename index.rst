@@ -26,10 +26,10 @@ digitali di base.
    :numbered:
    :hidden:
    
-   doc/modello-europeo-DigComp_2_1.rst
-   doc/prefazione.rst
-   doc/info-sulla-traduzione.rst
-   doc/riconoscimenti.rst
-   doc/sezione1-introduzione.rst
-   doc/sezione2-livelli-di-padronanza.rst
-   doc/sezione3-competenze.rst
+   modello-europeo-DigComp_2_1.rst
+   prefazione.rst
+   info-sulla-traduzione.rst
+   riconoscimenti.rst
+   sezione1-introduzione.rst
+   sezione2-livelli-di-padronanza.rst
+   sezione3-competenze.rst
