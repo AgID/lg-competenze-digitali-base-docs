@@ -65,7 +65,7 @@ informazioni nella Tabella 1 sono state rappresentate nell’infografica.
 +-------------------------+------------------------+-------------------------------------+-----------------------------------+-------------------+
 
 
-.. image:: oceano_digitale.png
+.. image:: media/oceano_digitale.png
   :scale: 50 %
   :alt: oceano digitale
 
