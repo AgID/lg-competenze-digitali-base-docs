@@ -25,3 +25,11 @@ digitali di base.
    :maxdepth: 3
    :numbered:
    :hidden:
+   
+   modello-europeo-DigComp_2_1
+   prefazione
+   info-sulla-traduzione
+   riconoscimenti
+   sezione1
+   sezione2
+   sezione3
