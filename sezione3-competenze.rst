@@ -36,7 +36,7 @@ Creare e aggiornare strategie di ricerca personali.
 Livelli di padronanza
 ---------------------
 
-1 - Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -54,7 +54,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 Esempi di utilizzo
 ^^^^^^^^^^^^^^^^^^
 
-01 – Scenario di occupazione: Processo di ricerca di un lavoro
+Scenario di occupazione: Processo di ricerca di un lavoro
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Con l’aiuto di un consulente per il lavoro:
@@ -68,7 +68,7 @@ smartphone e navigare al loro interno.
 Sono in grado di individuare le parole chiave utili per me da un elenco
 di parole generiche per la ricerca di lavoro in un blog specializzato.
 
-02 – Scenario di apprendimento: Preparare una breve relazione su un argomento specifico
+Scenario di apprendimento: Preparare una breve relazione su un argomento specifico
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Con l’aiuto di un insegnante:
@@ -88,7 +88,7 @@ bibliografici sull’argomento della relazione.
 
 .. _base-1:
 
-2 - Base 
+Base 
 ~~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -106,7 +106,7 @@ sono in grado di:
 
 -  **identificare semplici** strategie di ricerca personali.
 
-3- Intermedio
+Intermedio
 ~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -123,7 +123,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-1:
 
-4 - Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -139,7 +139,7 @@ ben definiti e non sistematici, sono in grado di:
 
 -  **organizzare** strategie di ricerca personali.
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -156,7 +156,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-1:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -173,7 +173,7 @@ all’interno di contesti complessi, sono in grado di:
 
 -  **variare** le strategie di ricerca personali.
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -189,7 +189,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-1:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -200,7 +200,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-1.2 Valutare dati, informazioni e contenuti digitali
+Valutare dati, informazioni e contenuti digitali
 ====================================================
 
 Analizzare, confrontare e valutare in maniera critica la credibilità e
@@ -215,7 +215,7 @@ Livelli di padronanza
 
 .. _base-2:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -230,7 +230,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-processo-di-ricerca-di-un-lavoro-1:
 
-01 - Scenario di occupazione: Processo di ricerca di un lavoro
+Scenario di occupazione: Processo di ricerca di un lavoro
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Con l’aiuto di un consulente per il lavoro:
@@ -242,7 +242,7 @@ lavoro che contengono.
 
 .. _scenario-di-apprendimento-preparare-una-breve-relazione-su-un-argomento-specifico-1:
 
-02 – Scenario di apprendimento: Preparare una breve relazione su un argomento specifico
+Scenario di apprendimento: Preparare una breve relazione su un argomento specifico
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Con l’aiuto di un insegnante:
@@ -254,7 +254,7 @@ affidabili.
 
 .. _base-3:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -265,7 +265,7 @@ necessario, sono in grado di:
 
 .. _intermedio-2:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -279,7 +279,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-3:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -293,7 +293,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-2:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -306,7 +306,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-3:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -320,7 +320,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-2:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -337,7 +337,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-3:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -348,7 +348,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-1.3 Gestire dati, informazioni e contenuti digitali
+Gestire dati, informazioni e contenuti digitali
 ===================================================
 
 Organizzare, archiviare e recuperare dati, informazioni e contenuti
@@ -362,7 +362,7 @@ Livelli di padronanza
 
 .. _base-4:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -375,7 +375,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-5:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -394,7 +394,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-processo-di-ricerca-di-un-lavoro-2:
 
-01 - Scenario di occupazione: Processo di ricerca di un lavoro
+Scenario di occupazione: Processo di ricerca di un lavoro
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 A casa con mia sorella, alla quale mi rivolgo ogniqualvolta ne ho la
@@ -406,7 +406,7 @@ poterli recuperare in caso di bisogno durante la mia ricerca del lavoro.
 
 .. _scenario-di-apprendimento-preparare-una-breve-relazione-su-un-argomento-specifico-2:
 
-02 - Scenario di apprendimento: Preparare una breve relazione su un argomento specifico
+Scenario di apprendimento: Preparare una breve relazione su un argomento specifico
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 In classe con l’insegnante a cui posso rivolgermi in caso di necessità:
@@ -418,7 +418,7 @@ utilizzarla per recuperarli all’occorrenza per la mia relazione.
 
 .. _intermedio-4:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -431,7 +431,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-5:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -445,7 +445,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-4:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -457,7 +457,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-5:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -471,7 +471,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-4:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -488,7 +488,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-5:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -507,7 +507,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 Area delle competenze 2: Collaborazione e comunicazione
 -------------------------------------------------------
 
-2.1 Interagire con gli altri attraverso le tecnologie
+Interagire con gli altri attraverso le tecnologie
 =====================================================
 
 Interagire attraverso diverse tecnologie digitali e capire quali sono
@@ -521,7 +521,7 @@ Livelli di padronanza
 
 .. _base-6:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -533,7 +533,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-7:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -546,7 +546,7 @@ necessario, sono in grado di:
 
 .. _intermedio-6:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -562,7 +562,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 Esempi di utilizzo
 ^^^^^^^^^^^^^^^^^^
 
-01 – Scenario di occupazione: Organizzare un evento
+Scenario di occupazione: Organizzare un evento
 '''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Per conto mio:
@@ -577,7 +577,7 @@ tramite calendario.
 
 Sono in grado di risolvere problemi, ad es. indirizzo email errato.
 
-02 – Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
+Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Per conto mio:
@@ -595,7 +595,7 @@ dal gruppo della chat.
 
 .. _intermedio-7:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -609,7 +609,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-6:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -621,7 +621,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-7:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -635,7 +635,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-6:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -651,7 +651,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-7:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -662,7 +662,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove idee** e processi nell’ambito specifico.
 
-2.2 Condividere informazioni attraverso le tecnologie digitali
+Condividere informazioni attraverso le tecnologie digitali
 ==============================================================
 
 Condividere dati, informazioni e contenuti digitali con altri attraverso
@@ -677,7 +677,7 @@ Livelli di padronanza
 
 .. _base-8:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -689,7 +689,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-9:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -702,7 +702,7 @@ necessario, sono in grado di:
 
 .. _intermedio-8:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -720,7 +720,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-9:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -741,7 +741,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-organizzare-un-evento-1:
 
-01 – Scenario di occupazione: Organizzare un evento
+Scenario di occupazione: Organizzare un evento
 '''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di utilizzare il sistema di archiviazione digitale della
@@ -761,7 +761,7 @@ partecipanti.
 
 .. _scenario-di-apprendimento-preparare-un-lavoro-di-gruppo-con-i-compagni-di-classe-1:
 
-02 – Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
+Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di utilizzare un sistema di archiviazione basato sul cloud
@@ -785,7 +785,7 @@ gruppo.
 
 .. _avanzato-8:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -800,7 +800,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-9:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -816,7 +816,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-8:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -831,7 +831,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-9:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -842,7 +842,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-2.3 Esercitare la cittadinanza attraverso le tecnologie digitali
+Esercitare la cittadinanza attraverso le tecnologie digitali
 ================================================================
 
 Partecipare alla vita sociale attraverso l’utilizzo di servizi digitali
@@ -857,7 +857,7 @@ Livelli di padronanza
 
 .. _base-10:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -871,7 +871,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-11:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -886,7 +886,7 @@ necessario, sono in grado di:
 
 .. _intermedio-10:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -900,7 +900,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-11:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -915,7 +915,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-10:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -934,7 +934,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-organizzare-un-evento-2:
 
-01 – Scenario di occupazione: Organizzare un evento
+Scenario di occupazione: Organizzare un evento
 '''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di proporre e utilizzare varie strategie multimediali (ad
@@ -949,7 +949,7 @@ capacità personali e professionali di partecipazione dei cittadini.
 
 .. _scenario-di-apprendimento-preparare-un-lavoro-di-gruppo-con-i-compagni-di-classe-2:
 
-02 – Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
+Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di proporre e utilizzare vari micro-blog (ad es. Twitter),
@@ -964,7 +964,7 @@ dei cittadini alla vita del proprio quartiere.
 
 .. _avanzato-11:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -979,7 +979,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-10:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -994,7 +994,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-11:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -1005,7 +1005,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-2.4 Collaborare attraverso le tecnologie digitali
+Collaborare attraverso le tecnologie digitali
 =================================================
 
 Utilizzare gli strumenti e le tecnologie per i processi collaborativi e
@@ -1018,7 +1018,7 @@ Livelli di padronanza
 
 .. _base-12:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -1028,7 +1028,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-13:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -1039,7 +1039,7 @@ necessario, sono in grado di:
 
 .. _intermedio-12:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -1049,7 +1049,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-13:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -1060,7 +1060,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-12:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -1070,7 +1070,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-13:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -1090,7 +1090,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-organizzare-un-evento-3:
 
-01 – Scenario di occupazione: Organizzare un evento
+Scenario di occupazione: Organizzare un evento
 '''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di utilizzare gli strumenti digitali più appropriati al
@@ -1110,7 +1110,7 @@ incapacità di un collega di salvare le modifiche al materiale).
 
 .. _scenario-di-apprendimento-preparare-un-lavoro-di-gruppo-con-i-compagni-di-classe-3:
 
-02 – Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
+Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di utilizzare le risorse digitali più appropriate per
@@ -1127,7 +1127,7 @@ come caricare un file nello strumento digitale).
 
 .. _altamente-specializzato-12:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -1143,7 +1143,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-13:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -1155,7 +1155,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-2.5 Netiquette
+Netiquette
 ==============
 
 Essere al corrente delle norme comportamentali e del know-how per
@@ -1171,7 +1171,7 @@ Livelli di padronanza
 
 .. _base-14:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -1188,7 +1188,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-15:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -1206,7 +1206,7 @@ necessario, sono in grado di:
 
 .. _intermedio-14:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -1223,7 +1223,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-15:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -1240,7 +1240,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-14:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -1257,7 +1257,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-15:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -1275,7 +1275,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-14:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -1295,7 +1295,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-organizzare-un-evento-4:
 
-01 - Scenario di occupazione: Organizzare un evento
+Scenario di occupazione: Organizzare un evento
 '''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Mentre organizzo un evento per la mia azienda, sono in grado di
@@ -1308,7 +1308,7 @@ attuali e futuri da implementare e usare come guida.
 
 .. _scenario-di-apprendimento-preparare-un-lavoro-di-gruppo-con-i-compagni-di-classe-4:
 
-02 – Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
+Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di risolvere problemi di galateo che si verificano con i
@@ -1325,7 +1325,7 @@ con altri in una piattaforma digitale.
 
 .. _altamente-specializzato-15:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -1336,7 +1336,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-2.6 Gestire l’identità digitale
+Gestire l’identità digitale
 ===============================
 
 Creare e gestire una o più identità digitali, essere in grado di
@@ -1350,7 +1350,7 @@ Livelli di padronanza
 
 .. _base-16:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -1365,7 +1365,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-17:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -1381,7 +1381,7 @@ necessario, sono in grado di:
 
 .. _intermedio-16:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -1397,7 +1397,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-17:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -1412,7 +1412,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-16:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -1427,7 +1427,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-17:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -1443,7 +1443,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-16:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -1458,7 +1458,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-17:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -1476,7 +1476,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-organizzare-un-evento-5:
 
-01 – Scenario di occupazione: Organizzare un evento
+Scenario di occupazione: Organizzare un evento
 '''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di proporre al mio capo una nuova procedura per i social
@@ -1486,7 +1486,7 @@ eventi aziendali.
 
 .. _scenario-di-apprendimento-preparare-un-lavoro-di-gruppo-con-i-compagni-di-classe-5:
 
-02 – Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
+Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di proporre una nuova procedura alla mia scuola che eviti
@@ -1513,7 +1513,7 @@ Livelli di padronanza
 
 .. _base-18:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -1529,7 +1529,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 Esempi di utilizzo
 ^^^^^^^^^^^^^^^^^^
 
-01 – Scenario di occupazione: Sviluppare un breve corso (tutorial) per formare lo staff su una nuova procedura da applicare nell’organizzazione
+Scenario di occupazione: Sviluppare un breve corso (tutorial) per formare lo staff su una nuova procedura da applicare nell’organizzazione
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Aiutato da un collega con competenze digitali avanzate:
@@ -1542,7 +1542,7 @@ Da un elenco già predisposto, trovato dal mio collega in una wiki, sono
 inoltre in grado di trovare strumenti digitali alternativi per creare
 una procedura per lo staff.
 
-02 – Scenario di apprendimento: Preparare una presentazione su un determinato argomento da esporre ai miei compagni di classe
+Scenario di apprendimento: Preparare una presentazione su un determinato argomento da esporre ai miei compagni di classe
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Con l’aiuto di un insegnante:
@@ -1558,7 +1558,7 @@ interattiva.
 
 .. _base-19:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -1572,7 +1572,7 @@ necessario, sono in grado di:
 
 .. _intermedio-18:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -1585,7 +1585,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-19:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -1598,7 +1598,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-18:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -1611,7 +1611,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-19:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -1624,7 +1624,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-18:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -1639,7 +1639,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-19:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -1651,7 +1651,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-3.2 Integrare e rielaborare contenuti digitali
+Integrare e rielaborare contenuti digitali
 ==============================================
 
 Modificare, affinare, migliorare e integrare informazioni e contenuti
@@ -1665,7 +1665,7 @@ Livelli di padronanza
 
 .. _base-20:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -1676,7 +1676,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-21:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -1693,7 +1693,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-sviluppare-un-breve-corso-tutorial-per-formare-lo-staff-su-una-nuova-procedura-da-applicare-nellorganizzazione-1:
 
-01 – Scenario di OCCUPAZIONE: SVILUPPARE un breve corso (tutorial) per formare lo staff su una nuova procedura da applicare nell’organizzazione
+Scenario di OCCUPAZIONE: SVILUPPARE un breve corso (tutorial) per formare lo staff su una nuova procedura da applicare nell’organizzazione
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Con l’aiuto di un collega (con competenze digitali avanzate e al quale
@@ -1706,7 +1706,7 @@ nuove procedure organizzative.
 
 .. _scenario-di-apprendimento-preparare-una-presentazione-su-un-determinato-argomento-da-esporre-ai-miei-compagni-di-classe-1:
 
-02 – Scenario di apprendimento: Preparare una presentazione su un determinato argomento da esporre ai miei compagni di classe
+Scenario di apprendimento: Preparare una presentazione su un determinato argomento da esporre ai miei compagni di classe
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 A casa con mia mamma (alla quale mi posso rivolgere quando ho bisogno) e
@@ -1720,7 +1720,7 @@ classe utilizzando la lavagna digitale interattiva.
 
 .. _intermedio-20:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -1731,7 +1731,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-21:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -1742,7 +1742,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-20:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -1753,7 +1753,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-21:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -1765,7 +1765,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-20:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -1781,7 +1781,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-21:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -1793,7 +1793,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-3.3 Copyright e licenze
+Copyright e licenze
 =======================
 
 Capire come il copyright e le licenze si applicano ai dati, alle
@@ -1806,7 +1806,7 @@ Livelli di padronanza
 
 .. _base-22:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -1816,7 +1816,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-23:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato laddove
@@ -1827,7 +1827,7 @@ necessario, sono in grado di:
 
 .. _intermedio-22:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -1842,7 +1842,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-sviluppare-un-breve-corso-tutorial-per-formare-lo-staff-su-una-nuova-procedura-da-applicare-nellorganizzazione-2:
 
-01 – Scenario di occupazione: Sviluppare un breve corso (tutorial) per formare lo staff su una nuova procedura da applicare nell’organizzazione
+Scenario di occupazione: Sviluppare un breve corso (tutorial) per formare lo staff su una nuova procedura da applicare nell’organizzazione
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Per conto mio:
@@ -1858,7 +1858,7 @@ può essere utilizzata senza il permesso dell’autore.
 
 .. _scenario-di-apprendimento-preparare-una-presentazione-su-un-determinato-argomento-da-esporre-ai-miei-compagni-di-classe-2:
 
-02 – Scenario di apprendimento: Preparare una presentazione su un determinato argomento da esporre ai miei compagni di classe
+Scenario di apprendimento: Preparare una presentazione su un determinato argomento da esporre ai miei compagni di classe
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Per conto mio:
@@ -1874,7 +1874,7 @@ essere utilizzata senza il consenso dell’autore.
 
 .. _intermedio-23:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -1885,7 +1885,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-22:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -1895,7 +1895,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-23:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -1906,7 +1906,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-22:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -1921,7 +1921,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-23:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -1932,7 +1932,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-3.4 Programmazione
+Programmazione
 ==================
 
 Pianificare e sviluppare una sequenza di istruzioni comprensibili da
@@ -1946,7 +1946,7 @@ Livelli di padronanza
 
 .. _base-24:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -1956,7 +1956,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-25:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -1967,7 +1967,7 @@ necessario, sono in grado di:
 
 .. _intermedio-24:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -1978,7 +1978,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-25:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -1994,7 +1994,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-sviluppare-un-breve-corso-tutorial-per-formare-lo-staff-su-una-nuova-procedura-da-applicare-nellorganizzazione-3:
 
-01 – Scenario di occupazione: Sviluppare un breve corso (tutorial) per formare lo staff su una nuova procedura da applicare nell’organizzazione
+Scenario di occupazione: Sviluppare un breve corso (tutorial) per formare lo staff su una nuova procedura da applicare nell’organizzazione
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Utilizzando un linguaggio di programmazione (ad es. Ruby, Python), sono
@@ -2006,7 +2006,7 @@ rimediare a problemi di codice.
 
 .. _scenario-di-apprendimento-preparare-una-presentazione-su-un-determinato-argomento-da-esporre-ai-miei-compagni-di-classe-3:
 
-02 – Scenario di apprendimento: Preparare una presentazione su un determinato argomento da esporre ai miei compagni di classe
+Scenario di apprendimento: Preparare una presentazione su un determinato argomento da esporre ai miei compagni di classe
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Utilizzando un’interfaccia di programmazione semplice (ad es. Scratch
@@ -2018,7 +2018,7 @@ programma e riesco a risolvere semplici problemi nel mio codice.
 
 .. _avanzato-24:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -2028,7 +2028,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-25:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -2040,7 +2040,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-24:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -2056,7 +2056,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-25:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -2075,7 +2075,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 Area delle competenze 4: Sicurezza
 ----------------------------------
 
-4.1 Proteggere i dispositivi
+Proteggere i dispositivi
 ============================
 
 Proteggere i dispositivi e i contenuti digitali e comprendere i rischi e
@@ -2090,7 +2090,7 @@ Livelli di padronanza
 
 .. _base-26:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -2107,7 +2107,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-27:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -2125,7 +2125,7 @@ necessario, sono in grado di:
 
 .. _intermedio-26:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -2143,7 +2143,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-27:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -2161,7 +2161,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-26:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -2182,7 +2182,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 Esempi di utilizzo
 ^^^^^^^^^^^^^^^^^^
 
-01 – Scenario di occupazione: Utilizzo di un account Twitter per condividere informazioni sulla mia azienda
+Scenario di occupazione: Utilizzo di un account Twitter per condividere informazioni sulla mia azienda
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di proteggere l’account Twitter aziendale utilizzando
@@ -2198,7 +2198,7 @@ impostazioni di privacy).
 Sono inoltre in grado di aiutare i miei colleghi a rilevare rischi e
 minacce durante l’utilizzo di Twitter.
 
-02 – Scenario di apprendimento: Utilizzo della piattaforma di apprendimento digitale della scuola per condividere informazioni su argomenti interessanti
+Scenario di apprendimento: Utilizzo della piattaforma di apprendimento digitale della scuola per condividere informazioni su argomenti interessanti
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di proteggere informazioni, dati e contenuti sulla
@@ -2216,7 +2216,7 @@ sui loro tablet (ad es. controllare chi ha accesso ai file).
 
 .. _avanzato-27:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -2234,7 +2234,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-26:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -2250,7 +2250,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-27:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -2263,7 +2263,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-4.2 Proteggere i dati personali e la privacy
+Proteggere i dati personali e la privacy
 ============================================
 
 Proteggere i dati personali e la privacy negli ambienti digitali. Capire
@@ -2279,7 +2279,7 @@ Livelli di padronanza
 
 .. _base-28:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -2295,7 +2295,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-29:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -2312,7 +2312,7 @@ necessario, sono in grado di:
 
 .. _intermedio-28:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -2330,7 +2330,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-29:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -2347,7 +2347,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-28:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -2363,7 +2363,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-29:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -2385,7 +2385,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-utilizzo-di-un-account-twitter-per-condividere-informazioni-sulla-mia-azienda-1:
 
-01 – Scenario di occupazione: Utilizzo di un account Twitter per condividere informazioni sulla mia azienda
+Scenario di occupazione: Utilizzo di un account Twitter per condividere informazioni sulla mia azienda
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di distinguere tra contenuti digitali appropriati e
@@ -2408,7 +2408,7 @@ condividerli sulla piattaforma digitale della scuola.
 
 .. _scenario-di-apprendimento-utilizzo-della-piattaforma-di-apprendimento-digitale-della-scuola-per-condividere-informazioni-su-argomenti-interessanti-1:
 
-02 – Scenario di apprendimento: Utilizzo della piattaforma di apprendimento digitale della scuola per condividere informazioni su argomenti interessanti
+Scenario di apprendimento: Utilizzo della piattaforma di apprendimento digitale della scuola per condividere informazioni su argomenti interessanti
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di distinguere tra contenuti digitali appropriati e
@@ -2428,7 +2428,7 @@ piattaforma.
 
 .. _altamente-specializzato-28:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -2445,7 +2445,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-29:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -2458,7 +2458,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-4.3 Proteggere la salute e il benessere
+Proteggere la salute e il benessere
 =======================================
 
 Essere in grado di evitare rischi per la salute e minacce al benessere
@@ -2474,7 +2474,7 @@ Livelli di padronanza
 
 .. _base-30:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -2491,7 +2491,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-31:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -2509,7 +2509,7 @@ necessario, sono in grado di:
 
 .. _intermedio-30:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -2526,7 +2526,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-31:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -2543,7 +2543,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-30:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -2560,7 +2560,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-31:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -2578,7 +2578,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-30:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -2601,7 +2601,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-utilizzo-di-un-account-twitter-per-condividere-informazioni-sulla-mia-azienda-2:
 
-01 – Scenario di occupazione: Utilizzo di un account Twitter per condividere informazioni sulla mia azienda
+Scenario di occupazione: Utilizzo di un account Twitter per condividere informazioni sulla mia azienda
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di creare una campagna digitale dei possibili rischi per
@@ -2612,7 +2612,7 @@ tablet.
 
 .. _scenario-di-apprendimento-utilizzo-della-piattaforma-di-apprendimento-digitale-della-scuola-per-condividere-informazioni-su-argomenti-interessanti-2:
 
-02 – Scenario di apprendimento: Utilizzo della piattaforma di apprendimento digitale della scuola per condividere informazioni su argomenti interessanti
+Scenario di apprendimento: Utilizzo della piattaforma di apprendimento digitale della scuola per condividere informazioni su argomenti interessanti
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di creare un blog sul cyberbullismo e l’esclusione sociale
@@ -2622,7 +2622,7 @@ ambienti digitali.
 
 .. _altamente-specializzato-31:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -2636,7 +2636,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-4.4 Proteggere l’ambiente
+Proteggere l’ambiente
 =========================
 
 Essere consapevoli dell’impatto ambientale delle tecnologie digitali e
@@ -2649,7 +2649,7 @@ Livelli di padronanza
 
 .. _base-32:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -2659,7 +2659,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-33:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -2670,7 +2670,7 @@ necessario, sono in grado di:
 
 .. _intermedio-32:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -2680,7 +2680,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-33:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -2691,7 +2691,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-32:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -2701,7 +2701,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-33:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -2712,7 +2712,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-32:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -2727,7 +2727,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-33:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -2745,7 +2745,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-utilizzo-di-un-account-twitter-per-condividere-informazioni-sulla-mia-azienda-3:
 
-01 – Scenario di occupazione: Utilizzo di un account Twitter per condividere informazioni sulla mia azienda
+Scenario di occupazione: Utilizzo di un account Twitter per condividere informazioni sulla mia azienda
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di creare un video illustrato che risponde a domande
@@ -2755,7 +2755,7 @@ professionisti del settore.
 
 .. _scenario-di-apprendimento-utilizzo-della-piattaforma-di-apprendimento-digitale-della-scuola-per-condividere-informazioni-su-argomenti-interessanti-3:
 
-02 – Scenario di apprendimento: Utilizzo della piattaforma di apprendimento digitale della scuola per condividere informazioni su argomenti interessanti
+Scenario di apprendimento: Utilizzo della piattaforma di apprendimento digitale della scuola per condividere informazioni su argomenti interessanti
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di creare un nuovo eBook per rispondere alle domande
@@ -2771,7 +2771,7 @@ famiglie.
 Area delle competenze 5: Risolvere problemi
 -------------------------------------------
 
-5.1 Risolvere problemi tecnici
+Risolvere problemi tecnici
 ==============================
 
 Individuare problemi tecnici nell’utilizzo dei dispositivi e degli
@@ -2785,7 +2785,7 @@ Livelli di padronanza
 
 .. _base-34:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -2800,7 +2800,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 Esempi di utilizzo
 ^^^^^^^^^^^^^^^^^^
 
-01 – Scenario di occupazione: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie opportunità di carriera
+Scenario di occupazione: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie opportunità di carriera
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Con l’aiuto di un collega del reparto IT:
@@ -2812,7 +2812,7 @@ di apprendimento digitale, e
 sono in grado di individuare il tipo di supporto IT capace di
 risolverlo.
 
-02 – Scenario di apprendimento: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie abilità matematiche
+Scenario di apprendimento: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie abilità matematiche
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Con l’aiuto di un amico:
@@ -2826,7 +2826,7 @@ risolverlo.
 
 .. _base-35:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -2839,7 +2839,7 @@ necessario, sono in grado di:
 
 .. _intermedio-34:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -2852,7 +2852,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-35:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -2865,7 +2865,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-34:
 
-5 – Avanzato 
+Avanzato 
 ~~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -2877,7 +2877,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-35:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -2890,7 +2890,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-34:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -2905,7 +2905,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-35:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -2917,7 +2917,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-5.2 Individuare bisogni e risposte tecnologiche 
+Individuare bisogni e risposte tecnologiche 
 ================================================
 
 Valutare le esigenze e individuare, valutare, scegliere e utilizzare gli
@@ -2932,7 +2932,7 @@ Livelli di padronanza
 
 .. _base-36:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -2947,7 +2947,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-37:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -2968,7 +2968,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-utilizzo-di-una-piattaforma-di-apprendimento-digitale-per-migliorare-le-mie-opportunità-di-carriera-1:
 
-01 – Scenario di occupazione: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie opportunità di carriera
+Scenario di occupazione: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie opportunità di carriera
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Con l’aiuto di un collega del reparto Risorse Umane a cui mi posso
@@ -2983,7 +2983,7 @@ in grado di ingrandire il font per migliorare la leggibilità.
 
 .. _scenario-di-apprendimento-utilizzo-di-una-piattaforma-di-apprendimento-digitale-per-migliorare-le-mie-abilità-matematiche-1:
 
-02 – Scenario di apprendimento: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie abilità matematiche
+Scenario di apprendimento: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie abilità matematiche
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 In classe con l’insegnante a cui posso rivolgermi in caso di necessità:
@@ -2996,7 +2996,7 @@ Sono in grado di impostare l’interfaccia nella mia lingua.
 
 .. _intermedio-36:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -3011,7 +3011,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-37:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -3027,7 +3027,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-36:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -3042,7 +3042,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-37:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -3058,7 +3058,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-36:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -3074,7 +3074,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-37:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -3086,7 +3086,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nel mio ambito.
 
-5.3 Utilizzare in modo creativo le tecnologie digitali
+Utilizzare in modo creativo le tecnologie digitali
 ======================================================
 
 Utilizzare gli strumenti e le tecnologie digitali per creare conoscenza
@@ -3101,7 +3101,7 @@ Livelli di padronanza
 
 .. _base-38:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -3115,7 +3115,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-39:
 
-2 – Base
+Base
 ~~~~~~~~
 
 con un supporto adeguato, laddove necessario, sono in grado di:
@@ -3129,7 +3129,7 @@ con un supporto adeguato, laddove necessario, sono in grado di:
 
 .. _intermedio-38:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -3150,7 +3150,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-utilizzo-di-una-piattaforma-di-apprendimento-digitale-per-migliorare-le-mie-opportunità-di-carriera-2:
 
-01 – Scenario di occupazione: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie opportunità di carriera
+Scenario di occupazione: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie opportunità di carriera
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Per conto mio:
@@ -3169,7 +3169,7 @@ domanda o un commento nel posto sbagliato.
 
 .. _scenario-di-apprendimento-utilizzo-di-una-piattaforma-di-apprendimento-digitale-per-migliorare-le-mie-abilità-matematiche-2:
 
-02 – Scenario di apprendimento: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie abilità matematiche
+Scenario di apprendimento: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie abilità matematiche
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Per conto mio:
@@ -3190,7 +3190,7 @@ domanda o un commento nel posto sbagliato.
 
 .. _intermedio-39:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -3205,7 +3205,7 @@ ben definiti e non sistematici, sono in grado di:
 
 .. _avanzato-38:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -3219,7 +3219,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-39:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -3233,7 +3233,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-38:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -3247,7 +3247,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-39:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
@@ -3257,7 +3257,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-5.4 Individuare i divari di competenze digitali
+Individuare i divari di competenze digitali
 ===============================================
 
 Capire dove occorre migliorare o aggiornare i propri fabbisogni di
@@ -3272,7 +3272,7 @@ Livelli di padronanza
 
 .. _base-40:
 
-1 – Base
+Base
 ~~~~~~~~
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
@@ -3285,7 +3285,7 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 .. _base-41:
 
-2 – Base
+Base
 ~~~~~~~~
 
 A livello base, in autonomia e con un supporto adeguato, laddove
@@ -3299,7 +3299,7 @@ necessario, sono in grado di:
 
 .. _intermedio-40:
 
-3 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 Da solo e risolvendo problemi diretti, sono in grado di:
@@ -3312,7 +3312,7 @@ Da solo e risolvendo problemi diretti, sono in grado di:
 
 .. _intermedio-41:
 
-4 – Intermedio
+Intermedio
 ~~~~~~~~~~~~~~
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
@@ -3334,7 +3334,7 @@ Esempi di utilizzo
 
 .. _scenario-di-occupazione-utilizzo-di-una-piattaforma-di-apprendimento-digitale-per-migliorare-le-mie-opportunità-di-carriera-3:
 
-01 – Scenario di occupazione: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie opportunità di carriera
+Scenario di occupazione: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie opportunità di carriera
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di discutere le competenze digitali.
@@ -3353,7 +3353,7 @@ padronanza delle competenze digitali.
 
 .. _scenario-di-apprendimento-utilizzo-di-una-piattaforma-di-apprendimento-digitale-per-migliorare-le-mie-abilità-matematiche-3:
 
-02 – Scenario di apprendimento: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie abilità matematiche
+Scenario di apprendimento: Utilizzo di una piattaforma di apprendimento digitale per migliorare le mie abilità matematiche
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Sono in grado di discutere con un amico le competenze digitali
@@ -3375,7 +3375,7 @@ ottenere i massimi vantaggi dai MOOC.
 
 .. _avanzato-40:
 
-5 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 Oltre a fornire supporto agli altri, sono in grado di:
@@ -3391,7 +3391,7 @@ Oltre a fornire supporto agli altri, sono in grado di:
 
 .. _avanzato-41:
 
-6 – Avanzato
+Avanzato
 ~~~~~~~~~~~~
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
@@ -3408,7 +3408,7 @@ all’interno di contesti complessi, sono in grado di:
 
 .. _altamente-specializzato-40:
 
-7 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello altamente specializzato, sono in grado di:
@@ -3424,7 +3424,7 @@ A un livello altamente specializzato, sono in grado di:
 
 .. _altamente-specializzato-41:
 
-8 – Altamente specializzato
+Altamente specializzato
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
